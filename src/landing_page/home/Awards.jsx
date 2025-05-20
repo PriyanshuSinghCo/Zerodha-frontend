@@ -29,6 +29,7 @@ function Awards() {
 
                         <div className="col-6">
                         <ul>
+                            
                         <li>
                             <p>Stocks & IPOs</p>
                         </li>
